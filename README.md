@@ -49,4 +49,4 @@ The original SWITCH comparison is under `Benchmark/others/integration/` with the
 
 ## Contact
 
-For questions, please [open a GitHub issue](https://github.com/zhangdaoliang/SWINGOT/issues) or contact us at zhangdaoliang@fudan.edu.cn wangjikuo@foxmail.com for problems about the packages..
+For questions, please [open a GitHub issue](https://github.com/zhangdaoliang/SWINGOT/issues) or contact us at zhangdaoliang@fudan.edu.cn， wangjikuo@foxmail.com for problems about the packages.
